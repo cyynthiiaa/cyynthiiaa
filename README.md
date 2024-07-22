@@ -1,7 +1,6 @@
-- wsg im cynthia!
-- i only know python
-- i mainly code for discord bots and scripting my discord commands
-- discord @cyynthiiaa, instagram @cynn._.thia
+- cynthia
+- i do absolutely nothing here
+- discord @cyxjz_
 
 <!---
 cyynthiiaa/cyynthiiaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
